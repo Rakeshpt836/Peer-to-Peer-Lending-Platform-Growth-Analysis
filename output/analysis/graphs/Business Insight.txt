@@ -1,0 +1,21 @@
+Business Insights
+
+1. The lending platform has 2,000 loans after data cleaning.
+
+2. Total funded amount is around Rs. 510.23 million.
+
+3. The average loan amount is around Rs. 267,830.
+
+4. Loan activity increased from 2021 to 2025.
+
+5. Debt Consolidation has the highest number of loans.
+
+6. Completed loans are the largest loan status category.
+
+7. Risk Grade B has the highest number of loans.
+
+8. The overall default rate is around 4.25%.
+
+9. Funding levels differ across borrower cities.
+
+10. The platform shows an increase in loan funding over the years.
